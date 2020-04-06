@@ -30,5 +30,6 @@ public class Deniyoruz {
 
         result = summ(a,b);
         System.out.println(summ(a,b));
+        System.out.println(division(a,b));
     }
 }
